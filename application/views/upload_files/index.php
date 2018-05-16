@@ -8,9 +8,8 @@
 <script src="src/main.js"></script>
 </head>
 
-<body background="http://www.spyderonlines.com/images/minimalism_sky_clouds_sun_mountains_lake_landscape_95458.jpg">
 
-<h1 class="text-center" style="font-family: century gothic; font-weight: bold; color: white">Mutliple File Upload</h1> <br>  
+<h1 class="text-center" style=" font-weight: bold; color: black">Mutliple File Upload</h1> <br>  
 <div class="container">
 <div class="row">
     <div class="col-lg-4"> </div>
@@ -20,7 +19,7 @@
 <form enctype="multipart/form-data" action="" method="post">
 
 <div class="form-group">
-<label class="text-center" style="font-family: century gothic; font-size: 20px; color: white"> Choose Files</label>
+<label class="text-center" style=" font-size: 20px; color: black"> Choose Files</label>
 <input type="file" class="form-control" name="userFiles[]" multiple/>
 </div>
 
